@@ -1,0 +1,9 @@
+# Write your name in Python
+
+import turtle
+
+turtle.color('purple')
+style = ('Courier', 90, 'normal')
+turtle.write('POOJA', font=style, align='center')
+turtle.hideturtle()
+turtle.done()
